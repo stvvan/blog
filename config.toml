@@ -1,0 +1,18 @@
+baseurl = "http://stvvan.com/"
+languageCode = "en-us"
+title = "Steve Van's Blog"
+theme = "hyde-x"
+paginate = 10
+
+[author]
+    name = "Steve Van"
+
+[params]
+	truncate = true
+	theme = "theme-base-08"
+	highlight = "sunburst"
+
+	tagline = "thoughts and sharing on technology and design"
+
+	github = "https://github.com/stvvan"
+	twitter = "https://twitter.com/stevevan"
